@@ -33,7 +33,7 @@ This was developed for exploring the Python GUI and to enhance DSA skills.
 
  - This is the dark mode which helps you to write in low light.
 
-![Dark Mode](https://github.com/shu3102/text-editor/tree/main/screenshots/dark_mode.gif)
+![Dark Mode](https://github.com/shu3102/text-editor/blob/main/screenshots/dark_mode.gif)
 
  - The best feature of the application is Unlimited Undo/Redo operations. 
 
