@@ -29,7 +29,7 @@ This was developed for exploring the Python GUI and to enhance DSA skills.
 
  - This is how the text-editor looks like. You can write, edit and delete content in your file.
 
-![File](https://github.com/shu3102/text-editor/tree/main/screenshots/file.gif)
+![File](https://github.com/shu3102/text-editor/blob/main/screenshots/file.gif)
 
  - This is the dark mode which helps you to write in low light.
 
@@ -37,6 +37,6 @@ This was developed for exploring the Python GUI and to enhance DSA skills.
 
  - The best feature of the application is Unlimited Undo/Redo operations. 
 
-![Operation ](https://github.com/shu3102/text-editor/tree/main/screenshots/operation.gif)
+![Operation ](https://github.com/shu3102/text-editor/blob/main/screenshots/operation.gif)
 
 
